@@ -162,9 +162,9 @@
         </plugins>
     </build>
 	<repositories>
-    <repository>
-      <id>${NEXUS-GRP-REPO}</id>
-      <url>http://${NEXUSIP}:${NEXUSPORT}/repository/${NEXUS-GRP-REPO}/</url>
-    </repository>
-  </repositories>
-</project>
+  <repository>
+    <id>my-repo</id> <!-- Replace with a valid identifier for your repository -->
+    <url>http://example.com/repository/my-repo/</url> <!-- Replace with the actual URL of your repository -->
+  </repository>
+</repositories>
+
