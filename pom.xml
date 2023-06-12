@@ -163,8 +163,8 @@
     </build>
 	<repositories>
   <repository>
-    <id>my-repo</id> <!-- Replace with a valid identifier for your repository -->
-    <url>http://example.com/repository/my-repo/</url> <!-- Replace with the actual URL of your repository -->
+    <id>my-repo</id> 
+    <url>http://example.com/repository/my-repo/</url> 
   </repository>
 </repositories>
 
